@@ -5,6 +5,7 @@ translator for the Valdevian constructed language
 - Download the source code
 - Extract into a folder
 - Run the start.bat file
+- Follow instructions in the command prompt
 # Hardware Requirements
 
 ## T5 Small
