@@ -7,7 +7,7 @@ translator for the Valdevian constructed language
 - Run the start.bat file
 # Hardware Requirements
 
-### T5 Small
+## T5 Small
 CPU: Quad-core 2.5 GHz or better
 
 RAM: 16 GB or higher
@@ -18,7 +18,7 @@ GPU: NVIDIA GeForce GTX 1080 or better
 
 Operating System: 64-bit Windows 10 or Linux
 
-### T5 Base
+## T5 Base
 CPU: Octa-core 2.5 GHz or better
 
 RAM: 32 GB or higher
@@ -29,7 +29,7 @@ GPU: NVIDIA GeForce GTX 1080 or better
 
 Operating System: 64-bit Windows 10 or Linux
 
-### T5 Large
+## T5 Large
 CPU: Octa-core 2.5 GHz or better
 
 RAM: 32 GB or higher
@@ -40,7 +40,7 @@ GPU: NVIDIA A100 or better
 
 Operating System: 64-bit Linux
 
-### T5-3B
+## T5-3B
 CPU: 64-core 2.5 GHz or better
 
 RAM: 256 GB or higher
@@ -51,7 +51,7 @@ GPU: NVIDIA A100 or better
 
 Operating System: 64-bit Linux
 
-### T5-11B
+## T5-11B
 CPU: 128-core 2.5 GHz or better
 
 RAM: 1024 GB or higher
