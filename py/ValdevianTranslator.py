@@ -1,5 +1,6 @@
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch
+import os
 
 
 class ValdevianTranslator:
@@ -11,9 +12,9 @@ class ValdevianTranslator:
         # Load the pretrained translation model and tokenizer
         self.tokenizer = T5Tokenizer.from_pretrained(model_name)
         self.model = T5ForConditionalGeneration.from_pretrained(model_name).to(self.device)
-
+        current_dir = os.getcwd()
         # Load the dataset
-        with open("D:/Important/JARVIS/PrasvulsianTranslator/py/output.txt", "r", encoding="utf-8") as f:
+        with open(f"{current_dir}\\py\\output.txt", "r", encoding="utf-8") as f:
             lines = f.readlines()
 
         # Create the translation dictionary
