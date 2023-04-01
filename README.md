@@ -65,3 +65,5 @@ Operating System: 64-bit Linux
 # Software Requirements
 
 - Python 3.9
+## Optional
+- Cuda 11.7
