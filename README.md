@@ -6,7 +6,7 @@ translator for the Valdevian constructed language
 - Extract into a folder
 - Run the start.bat file
 # Hardware Requirements
-## System Requirements
+
 ### T5 Small
 CPU: Quad-core 2.5 GHz or better
 
