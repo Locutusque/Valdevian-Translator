@@ -30,7 +30,7 @@ GPU: NVIDIA GeForce GTX 1080 or better
 
 Operating System: 64-bit Windows 10 or Linux
 
-## T5 Large
+## T5 Large (Highly recommended)
 CPU: Octa-core 2.5 GHz or better
 
 RAM: 32 GB or higher
