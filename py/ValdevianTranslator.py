@@ -10,11 +10,11 @@ class ValdevianTranslator:
         print(f"Using device: {self.device}")
 
         # Load the pretrained translation model and tokenizer
-        self.tokenizer = T5Tokenizer.from_pretrained(model_name)
-        self.model = T5ForConditionalGeneration.from_pretrained(model_name).to(self.device)
-        current_dir = os.getcwd()
+        self.tokenizer = T5Tokenizer.from_pretrained(model_name, cache_dir="D:\\huggingface\\hub", model_max_length=512)
+        self.model = T5ForConditionalGeneration.from_pretrained(model_name, cache_dir="D:\\huggingface\\hub").to(self.device)
+        current_dir = os.path.dirname(os.path.abspath(__file__))
         # Load the dataset
-        with open(f"{current_dir}\\py\\output.txt", "r", encoding="utf-8") as f:
+        with open(f"{current_dir}\\output.txt", "r", encoding="utf-8") as f:
             lines = f.readlines()
 
         # Create the translation dictionary
