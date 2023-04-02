@@ -3,8 +3,8 @@ from ValdevianTranslator import ValdevianTranslator
 import os
 
 translate_text = ValdevianTranslator("t5-small")
-current_dir = os.getcwd()
-app = Flask(__name__, template_folder=f'{current_dir}\html', static_folder='static')
+current_dir = os.path.dirname(os.path.abspath(__file__))
+app = Flask(__name__, template_folder=f'{current_dir}\\html', static_folder='static')
 
 @app.route("/")
 def home():
