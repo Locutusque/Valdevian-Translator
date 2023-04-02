@@ -13,7 +13,7 @@ echo ^| Valdevian Translator has loaded!   ^|
 echo ^| In your browser type               ^|
 echo ^| http://localhost:5000/             ^|
 echo ^|____________________________________^|
-color 02   :: Set text color to green
+color 02
 call "%PY%\python.exe" %current_dir%\py\backend.py
 timeout /t 5 /nobreak > NUL
 
