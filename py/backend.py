@@ -4,7 +4,8 @@ import os
 
 translate_text = ValdevianTranslator("t5-small")
 current_dir = os.path.dirname(os.path.abspath(__file__))
-app = Flask(__name__, template_folder=f'{current_dir}\\html', static_folder='static')
+parent_dir = os.path.dirname(current_dir)
+app = Flask(__name__, template_folder=f'{parent_dir}\\html', static_folder='static')
 
 @app.route("/")
 def home():
