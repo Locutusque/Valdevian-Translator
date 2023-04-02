@@ -1,15 +1,3 @@
-With the grace of the Gods	Kravnia greshterma dæ Vosedyvia’
-the autocrats	utakratsier’
-and the people	a hersona’
-vov gesdovana noron	wow so big
-Ma kapaznarovska vokta!	I'm just kidding!
-all will hail His Majesty	sedyvia raduznakriya Præstova esa Vasavalezestva
-second of the House of Sirezia	Kavaes dæ Kosovno dæ Sirezia
-third to the ascending of the Great Kingdom of Prasvulsia	Kesta podyemarovska dæ Vesenea Veleka dæ Prasvulsea
-King Syros of Sirezia	Vesedyvia Seros dæ Sirezia
-As the procession continued	Mas pradenye kontedyviætashk
-there came before the great hall of the palace	tadyvia sumatshk ukraza qhorzæ veleka dæ valæsæa
-From across the seas beyond the reach of the Sirezians came diplomats from kingdoms far in the west and the north	otrozka’ dæ vota’ dæ posesion’ veleka a rasnoy aslanda
 Eshvesta	Meanwhile / At the same time
 Yarvesta	A lot / Much
 Dosanyo	A little bit
@@ -1249,3 +1237,1254 @@ Year	Yavrena / Yavratama
 Yesterday	Mearkena
 Yes	Vaen / Za
 Young	Yovan
+Meanwhile / At the same time	Eshvesta
+A lot / Much	Yarvesta
+A little bit	Dosanyo
+A lot	Dosanya
+Godspeed / Good luck	Saprodyviæt
+Pull yourself together	Yatkaukradyviaska
+For God’s sake	Sapruzna
+Go on / Spill the beans / Fire away	Pradozska
+Why does it matter / What difference does it make / Why do you care	Kakaraseshta
+The fact that / To think that	Fashto
+Yay	Grosovna
+Too late	Præsovno
+As a result of / Because of / Thus	Putamoztu
+Technically / In truth	Tasnavashka
+It’s okay / Fine	Ushta
+Years old	Kazena
+According to	Soglazno
+Ahead of	Avarovas
+Instead of	Esedyvia
+By the way	Meznaprozæm
+In case	Uzaena
+I don’t care	Yaraduzov
+Oh	Da
+Finally	Enleshtav
+Of course	Sprozna
+Greetings	Vedema
+Go on	Suyasta
+In my opinion	Uzmatesha
+Doing nothing is better than doing a negative	Pavenauzasnæ
+Really / Truly	Sevasav
+Shut up	Sakrozna
+Very well	Nostosh
+As well / Too	Koroyena
+Shut the fuck up	Danesvritadyvia
+What’s up / What’s going on	Toshenye
+So be it	Salæ
+Give up	Zarpazo
+As / During the same time	Mas
+Looks/Sounds like	Yarvedyvien
+I can’t believe it / What the heck	Yesvedyviæto
+I will either find a way or make one	Makuzasnavkasenkontrakriyost
+Raise your words, not your actions, for it is rain that makes plants grow, not thunder.	Arænayvrolovasheveatodyviadyvieaksonazazerbrantoyespandyvievrashenye
+Do tell / I encourage you	Zaprosto
+Ouch / Ow	Prashut
+About	Avedyvia
+From	Æzna
+Above	Akseo
+Across	Azq
+Against	Arvedyvia
+Along	Kasia
+Among	Kavidyvia
+Around	Avronadyvia
+At	Vaesmo / It
+Behind	Bareshna
+Below	Velbesma
+Beneath	Sarma
+Beside	Sarzasta
+Belong	Mætrasha
+Between	Velmqta
+Beyond	Suronyas
+By	Kalesmo
+Down	Nq
+During	Duvroska
+Despite	Dazenska
+In	Uza
+Inside	Uzasta
+In to / Into	Uzarov
+Near	Morovka
+Off	Esma
+Es	On
+On to / Onto	Esov
+Out	Esovra
+Outside	Esyarenva
+Over	Sushda
+Past	Sklaven
+Through	Deava
+Throughout	Deavesovra
+Upon	Uzfas
+With	Kravnia
+Within	Kravnoyuza
+Without	Kravnoyoska
+Abroad	Abashdone
+According to	Soglazno
+Ahead of	Avarovas
+Apart / A part	Morofska
+Aside	Kalva
+Instead of	Esedyvia
+Opposite	Veltasealo
+To	Ov
+Toward/ Towards	Ovaronyas
+Under	Umbar
+Underneath	Umbaronyas
+Until	Unbar
+Up	Unas
+Concerning…	Vesnova
+Of	Dæ
+1	Uvyost
+2	Kavaes
+3	Kesta
+4	Feore
+5	Feoros
+7	Sevuy
+8	Altodyvio
+9	Dyvievan
+11	Uvanyost
+12	Kavaenyas
+13	Kesyasta
+14	Feorias
+15	Feoroseo
+16	Siyashasto
+17	Sevoyas
+18	Alasyanto
+19	Dyvievadyvios
+20	Karanesfo
+21	Karasuvos
+22	Karvedyvias
+23	Karvedyvio
+26	Karvensha
+27	Karvuydæva
+28	Kasalanto
+29	Karadyviæva
+30	Kætrano
+31	Kætumana
+32	Kætanas
+33	Katermas
+34	Ketorme
+35	Ketoros
+36	Kesasha
+37	Kevuy
+38	Ketodyvio
+39	Ketevadyvia
+40	Kezæena
+41	Ferasuvos
+42	Feraes
+43	Feranyas
+44	Fetromos
+45	Fesasha
+46	Ferasha
+47	Ferasevuy
+48	Feradyvio
+49	Feradyvia
+50	Feorodyvievan
+51	Feoruvos
+52	Feorskava
+53	Feorskeva
+54	Feorskias
+55	Feorosta
+56	Feorsha
+57	Feorvuy
+58	Feorodyvio
+59	Feorodyvieva
+60	Sæeshta
+61	Sæuvos
+62	Sævaes
+63	Sæeshyas
+64	Særenræ
+65	Sæoros
+66	Sæeshanta
+Is / Am / Are	Esa
+Was / Were	Vesara
+Can	Ozka
+Be	Uzos / Yunashka
+Have / Has	Æto
+Should	Shvasta
+Would	Velkradyvia
+Could	Moga
+Do / Does	Mavrata
+Might	Veneta
+Must	Vraskasma
+May	Mozætæ
+For / Because	Dyvieovra
+And	A
+But / Yet	Sevroma
+So	Noron / Tak
+Or	Kasa
+If	Fal
+Idahabæn	Alphabet
+It	At
+Astera	After
+Tus	Any / Anyone
+Sedyvia / Shtol	All
+Darvedyvia	Act
+Atoredyvia	Authority
+Varsia	Army
+Asterovsa	Afternoon
+Varadyvia	Always
+Shvianta	Almost
+Saravska	Avalanche
+Varodyvievos	Arrest
+Asla	Also
+Anta	Ago
+Karveza	Anger
+Armena	Angry
+Tusavna	Anyways / Anyhow / Anywho
+Vazesta	Advise / Advice
+Vazer	Adviser
+Utakratsier	Autocrat
+Vostovas	Afflict
+Era	Air
+Gasadarena	Amaze
+Seshka	Ass
+Notusdyvio	Anything
+Armadadyvia	Armada
+Atesta	Art
+Abrandomozka	April
+Augustusamozka	August
+Afento	Afford
+Vostaza	Answer / Solution
+Zotrozka	Author
+Dobavet	Add
+Aktevna	Active
+Shvot	Account
+Dyviata	Announce
+Sprasheva	Admit
+Uzæ	Already
+Arvos / Raseska / Aseyanto	Again
+Ustravæta	Assemble / Arrange
+Spasovna	Able
+Advantoshka	Advantage
+Atozka	Attack
+Razesna	Annoy / Irritate
+Slushæna	Arrogant
+Vosnatsa	Appear
+Atentoshka	Attention
+Angyel / Anyel	Angel
+Akasna	Accuse
+Vena	Absurd
+Gostova	Accent
+Zopra	Agree
+Arbezana	Arbitrary
+Aproksemata	Approximate
+Apropriato	Appropriate
+Ozto	Awkward
+Akaznoyas	Affect / Effect
+Podyema	Ascend
+Pokoda	Approach
+Rasnedyvie	Amuse
+Adulto	Adult
+Adultreo	Adultery
+Analeteko	Analysis
+Antem	Anthem
+Razeska	Allow / Permit
+Sorogat	Amount
+Zavaras	Appeal / Cater
+Yesmedyvio	Assimilate
+Aksenyo	Better
+Aksenya	Best
+Ukraza	Before / Beforehand
+Veltrega	Being [n.]
+Kesta / Muvros	Born / Birth
+Vakranda	Brown
+Sarovdyvia	Beach
+Volesmo	Bad
+Baglosavet	Bless
+Dyviepron	Baby
+Sveadyvia	Bye
+Serana	Bore
+Breshefta	Business
+Havraena	Boy
+Moyasa	Boast
+Asva	Both
+Viyeta	Bitch
+Osnovas / Grasesva	Base
+Gesdovana	Big
+Vretasna	Beauty
+Kasadyvia	Boundary
+Tusa	Build
+Gesda	Bring
+Vitasa	Battle
+Boza	Box
+Voltesbera	Ballot
+Valan	Bullet
+Anva	Back
+Vedavna	Burn
+Vozka	Book
+Nazena	Begin / Start
+Na / Vashevusdevna	Believe
+Utra	Basic
+Yaskrezna	Bilingual
+Dorma	Bed
+Yorinadorma	Bedroom
+Sumka	Bag
+Uslovna	Behavior
+Dovrazema	Benevolent
+Biashna	Bait
+Ovronanta	Body
+Baselesko	Basilisk
+Bastardo	Bastard
+Bratoshka	Brother
+Vazno	Black
+Herato	Bird
+Ozestazone	Bitter
+Beblo	Bible
+Hronesto	Bonus
+Sangrano	Blood
+Prazedo	Benefit
+Baldyvietsa	Balance
+Korva	Core
+Sakandor	Complacent
+Aksestidyvia	Cease / Seize
+Kalvera	Conscience
+Komenost	Common
+Muyesvosta / Kontedyviæta	Continue / Proceed
+Karæshta	Combine
+Turona	Collect
+Voldyviet	Care
+Lesarma / Sumat	Come
+Kros	Cross
+Anastva	Continent
+Korona	Crown
+Konesta	Conquest
+Sashela	Congrats
+Usla / Esmedyviæta	Change / Manipulate / Modify / Edit
+Zoksama	Curse
+Esanost	Control
+Kosan	Conceal
+Seserma	Close
+Duma	Crust
+Dæs / Vrosa	Call
+Kevadyvio	Curtain
+Desberanto	Chaos
+Vetarna	Constant / Relative
+Soraza	Courage
+Titadyvia	Cry
+Zedema	Crush
+Seska / Paznevneka	Cool
+Koza	Cold
+Torvato	Caution
+Tuzkæ	Current
+Mesazera	Calamity
+Sovena	Cow
+Zikanza	Complete / Finish
+Votrægar	Corrupt
+Kona	Cute
+Valdyvietsa	Country
+Vestuza	Crazy / Insane
+Dyviæsta	Carry
+Suzda	Child / Kid
+Gasudærena	Company
+Zetia / Svomada	Consider / Count / Factor
+Yanyæ	Cook
+Zaprosh	Cruel
+Vosh	Clock
+Razuva	Capable
+Sovraza	Content
+Spazenye	Conjugation
+Komand	Command
+Kozesto	Consist / Comprise
+Shansna	Chance
+Kakashna	Calculate
+Væstusha	Cunning
+Kotoga	Clothes / Clothe
+Koyas	Coil
+Kapozna	Capsulate / Encapsulate
+Nædozna	Certain / Definite / Definitive
+Kon	Cut
+Kostala	Capital
+Koronasa	Coronate
+Pradenye	Ceremony / Procession
+Sodyviæva	Chair
+Zærovæ	Chest
+Pravene	Correct
+Harmeto	Commit
+Zasna	Covet
+Kapetulo	Chapter
+Opravena	Convey / Send
+Zesto	Clear
+Serka	Circa
+Qheor	Choir
+Shta	Channel
+Konstetusion	Constituion [n]
+Aflado	Charge
+Kontakto	Contact
+Festo	Catch
+Kardo	Cardio
+Katoshka	Card
+Senturos	Century
+Kultura	Culture
+Kordenato	Coordinate
+Kustomer	Customer
+Krotovo	Cloud
+Skashu	Consent
+Shtravetenye	Congress
+Zevenye	Citizen
+Zæprazna	Cheapskate
+Krugoy	Cartwheel
+Domo	Calm
+Davroma	Dictionary
+Bavarov	Doubt
+Vædema	Die
+Darma	Drama
+Tuvrodyvia	Dignity
+Varmo	Dog
+Vasleshta	Destroy / Break
+Unveyan	Dispute
+Vradema	Defy
+Viar	Dream
+Dadyvio	Day / Today
+Hasanso	Deliver
+Trenkun	Drink
+Dyvieva	Deep
+Verda	Damn
+Usadyvias	Diaper
+Merba	Decide / Choose
+Defera	Defer
+Sovan	Dry
+Dektator	Dictator
+Tros	Drop
+Vestorna	Discord
+Desbatordyvia	Despair
+Eshtera	Determine
+Opazne	Danger / Endanger
+Sæzarmeas	Dare
+Deakreto	Diacritic
+Væskema	Dead / Death [n]
+Diabla	Devil
+Davradyviomozka	December
+Derakta	Direct
+Vumada	Different
+Deplomate	Diplomacy
+Dealekt	Dialect
+Prazevneka	Dumb
+Vroyozka	Desk
+Desevna	Discipline
+Skaza	Dismay
+Destonsna	Distance
+Razena	Divide / Separate [v.]
+Deveseon	Division  [army]
+Razenav	Division [math]
+Ratosh	Deliberate
+Esmedyvia	Deceive
+Dyviormeta	Disorder
+Devasæ	Device
+Devoshta	Divulge
+Vremdyvia	Defeat
+Dragona / Dragon	Dragon
+Dansa / Vorovka	Dance
+Deklarata	Declare
+Devushna	Deputy / Senior
+Defena	Define
+Deskosna	Discourse
+Dozna	Daughter
+Destonasia	Destination
+Dæto	Debt
+Otretsat	Deny
+Zavesesto	Depend
+Deanto	Date
+Dokumento	Document [n]
+Svædashna	Document [v]
+Yenor	Dinner
+Diyando	Defense
+Mæna	Due
+Vreatsko	Dexterity / Ambidexterity
+Demokratia	Democracy
+Kazdæ	Every / Everyone
+Vratuv	Endow
+Estarusa	Example
+Emperator	Emperor
+Emperatretsa	Empress
+Brishadyvia	Enough
+Stoy	Exact
+Val	Evil
+Kosorovnea	Earth
+Greshna	Eat
+Evandosa	Enemy
+Emparatretsea	Empire
+Vedyvia / Krazenza	End
+Ekanamaska	Economics
+Esla	East
+Sesma	Early
+Vrustiadyvia	Explode
+Astias	Easy / Ease
+Damenanta	Employ
+Evoyas	Even
+Eksesta	Exercise
+Kerado	Error
+Eterna	Eternity
+Kazda	Either
+Elemanta	Element
+Dormia	Else
+Asklamadyvia	Except
+Enterana	Entire / Overall
+Gravna	Equal
+Enfetala	Empty
+Soza	Ever
+Poza	Each
+Bræstol	Enjoy
+Osobena	Especially
+Rashedyviæ	Expand
+Ovtramena	Equipment / Tool / Supply
+Kuzaznæ	Entice / Allure / Lure
+Yævara	Evade
+Pazqmia	Expect
+Unek	Eunich
+Oyo	Eye
+Harodyviovæt	Emphasize
+Emdyviæna	Evoke
+Evokasion	Evocation
+Æstashna	Establish
+Eroyena	Encourage
+Esledyvioano	Explore
+Zaza	Falcon
+Varzasa	Fight
+Fuze	Fool
+Agraedyvio	Free
+Agraena	Freedom
+Sutka	Fate
+Zamantov	Fox
+Fratadyvia	Fruit
+Senkenta / Fera	Fair
+Avyna	Full
+Unvresma / Zedena	Fall
+Amatos	Feel
+Areshna	Farm
+Vodyvio	Father
+Barovna	Fat
+Zaustka	Face
+Favorena	Favorite
+Vokta	Fuck
+Barmo	Far
+Vatka	Fake
+Vatkan	False
+Vulsha	Few
+Kestama	Fester
+Aslanda	Foreign
+Bratia	Facade
+Fædyvia	Faith
+Vosduzna	Front
+Enkontra	Find
+Vasanter	Friend
+Vasterma	Fun
+Federeska	Federation
+Falasia	Fallacy
+Esvosando	Fast
+Sevena	Family
+Funshtion	Function
+Svadoshvanta	Flower
+Flama	Flame
+Ferda	Fire
+Enleshta	Final / Last
+Feærma	Form / Develop
+Fehanmozka	February
+Koladyvia	Freeze
+Falasma	Fact
+Voska	Force [v]
+Voskas / Forsas	Force [n]
+Nagsezda	Forever
+Kasdozna	Follow / Subscribe
+Sproshka	Funny
+Sezas	Focus
+Napoldyviat	Fill
+Vuhansev / Pristet	Forgive
+Nastraza	Feign / Talk
+Dusno	Fantastic
+Flanka	Flank
+Feanto	Field
+Utozna	Favor
+Prodasna	Fortunate
+Siyato	Forget
+Strq	Fear
+Harmosto	Fame
+Narodyvie	Folk
+Veando	Fierce
+Shnatoyu	Famous / Popular
+Dyviapron	Flood / Drown
+Menye	Future
+Frendo	Friday
+Prastoy	Formal
+Geshundit	Grammar
+Dosva	Good
+Gos	Good [n]
+Suyas	Go
+Pozda / Brasto	Give / Submit
+Atem / Hazosva / Veshæ	Get / Gain
+Shvaena	Girl
+Varmakia / Grandæ	Grand
+Hasenske / Veleka	Great / Prominent
+Greshterma / Zahansk	Grace
+Emaseska	Grape
+Vastos	Glow
+Vosedyvia	God
+Tuvana	Game
+Gunda	Gun
+Garantia	Guarantee / Promise
+Moyasta	Goal / Purpose
+Grasesma	Graph
+Grasevsna	Ground
+General	General
+Vadamar	Green
+Vasonvastashka	Glass
+Udyviana	Group / Array
+Graspo	Grab /  Grasp /Touch
+Espando	Grow
+Osta	Grin
+Verdana	Gold
+Vema	Greet
+Slava	Glory
+Neaznæ	Gentle
+Hrastov	Grade
+Hasa / Præstova	He / Him / His
+Ovarena	Human
+Hastva	Hi / Hello
+Mesarva	Hate
+Vas / Dyviæta	How
+Vranyando	Holy
+Kosovno	House
+Grodyvia	Haste
+Adyvia	Here
+Ventalo	History
+Varasta	Happy
+Alosæ	Hope
+Brastdyvia	Happen
+Kenava	Heavy
+Venenta	Hurry
+Armana	Harmony
+Sovashka	Honor
+Yavrasena	Help
+Hevan	Heaven
+Hesvanto / Enfernal	Hell
+Ovrazema	Hot / Heat
+Raduzna / Helva	Hail
+Egrata	Handwriting
+Sleshnu	Hear / Sound
+Vomadayavrasa	Helping Verb / Auxiliary verb
+Glavna	Head
+Kokarashesæsama	Hence
+Skatashna	Hold
+Hospetal	Hospital
+Terozna	Hard / Difficult
+Qhorzæ	Hall
+Egoro	Hand
+Provenye	Hurt
+Harason	Heart
+Vostana	Heal / Recover
+Hem	Hymm
+Soromna	Humble
+Namækanto	Hint
+Andozna	Highlight
+Hando	High
+Yanyando	Humor
+Hernas	Honest
+Drovoy	Health
+At	It
+Ma / Meæt	I / Me / My / Mine
+Navradovska	Influence
+Iron / Irona	Iron
+Emberskiya	Imperial
+Emperosa	Imperium
+Enstansa	Instance
+Ensasadyvia	Impossible
+Elosiæv	Illusion
+Esola	Isolate
+Enfeal	Infidel
+Eskadyvio	Idiot
+Enberadyvia	Inspire
+Enformatsa	Information / Info
+Vozenzando	Incumbent
+Envada	Invade
+Postavet	Inform / Update
+Vaznæ	Improve
+Mezdemeatsa	Interjection
+Arvana	Island
+Entrodosia	Introduction
+Entrodusa	Introduce
+Enflat	Inflate
+Enflatsion	Inflation
+Emportantæ	Important
+Egnora	Ignore / Neglect
+Egneta	Ignite
+Ensedyviæta	Insignia
+Emprosa	Impose
+Entereso / Zaprozno	Interest
+Esun	Jump
+Zenala	Journal
+Velek / Seran	Just
+Yahanmozka	January
+Væmozka	June
+Zulamozka	July
+Vrushna	Judge
+Ferasovo	Join
+Zepredyvie	Involve
+Kasedyvia	Know
+Vasedyvia	King
+Vesenea	Kingdom
+Zazanto	Kind
+Kasama	Kill
+Keoabred	Keyboard
+Stoldyviæta	Kneel
+Harnq	Keep
+Klaso	Class
+Yeneshka	Lazy
+Anos	Less
+Dæsovs	Lie
+Vasel / Gratoshka	Large
+Losonsko	Life
+Vaselek	Lead
+Vraduma	Lord
+Vradesma	Lady
+Dorma	Laugh
+Veslia	Land / Area
+Uyesta / Sashema	Learn
+Ando	Light
+Viano	Least
+Gustarenska	Lavish
+Losovsviyon	Lifestyle
+Vealo	Left
+Foko	Little
+Zanzasto	Love
+Geradyvia	Language
+Gruza	Load
+Mesanska	Live
+Udaza	Luck
+Bavæt / Bavos	Lost / Lose
+Grozna	Like
+Tos	Low / Shallow
+Materna	Look
+Darmashka	Loud
+Laveshka	Lexical
+Brazmo	Letter
+Larvanta	Law
+Klazna	Lay
+Yaskova	Lingual
+Vozevna	Loss / Failure
+Yeteral	Literal
+Masta	Label
+Rasona	Logic
+Prosna	Let
+Veærnæ	Loyal / Fealty
+Odena	Lone
+Dovno	Late
+Vashasudyvia	Lyric
+Susdyvia	Link
+Lebærtad	Liberty
+Slushon	Lesson
+Dayena	Long
+Valeda	Mother
+Voskal	Morning
+Niat	Meet
+Kovrosta / Skavanto	More
+Vota	Man
+Viadyvia / Skazeradyvia	Most
+Esana	Mood
+Yasveza	Many
+Meta	Meat
+Mozaksa	Maybe / Perhaps / Probably
+Maten	Mountain
+Mercia	Mercy
+Karaduzæv	Mix
+Zazera	Make / Cause
+Vunshtat	Moon
+Melatara	Military
+Vazavalensha	Majestic
+Vasavalezestva	Majesty
+Suzero	Mistake
+Eshvredyviem	Mean
+Srazna	Main
+Dyviarmanto	Move / Push
+Mozka	Month
+Marzestamozka	March
+Kamozka	May
+Metema	Myth
+Mensiyas	Message
+Vastoza	Magnificent
+Serma	Member
+Matema	Mouth
+Vemat	Medic
+Metro	Metro / Subway
+Vestuzav	Medicine
+Vashka	Mr / Sir
+Vastov	Miss / Ma’am
+Mnoga / Yarvesta	Much
+Okmæta	Mark
+Melna	Mile
+Stovænyamotozka	Milestone
+Yasrezna	Monolingual
+Yaskazna	Multilingual
+Dyviestkat	Multiple
+Rahanska	Matter
+Dosevna	Moral
+Metod	Method
+Upravedyviæ	Maintain
+Meranto	Merit
+Dyvievosia	Motion
+Vasa	Magnify
+Vasonvastashkasarovska	Magnifying Glass
+Prost	Mere
+Metafor	Metaphor
+Masnia	Mock
+Modæsto	Modest
+Mondo	Mind
+Mangyor	Manger
+Melodyvieva	Melody
+Medeteræn	Meditate
+Vriena	Master / Skill / Fluent
+Mesa	Mass
+Modolo	Model
+Yestol	Memory
+Meatsa	Muscle
+Yesmedyvie	Muscle Memory
+Montag	Monday
+Dyvievroma	Never
+Feora	Nature
+Naselist	Nation
+Dyvievæt	No / Nope
+Numerakos	Number
+Noredyvio	Night / Tonight
+Sarshama	Nice
+Dyvievroska	Nothing / None
+Numbra	Name
+Sena / Nastiava / Sezasta	Now
+Egnia	Noble
+Norvedyvia	North
+Dyvievdæudyvia	Nobody / No one
+Vratovskar	Need
+Novelamozka	November
+Novas	New
+Novasta	News [n]
+Noshka	Note
+Uske	Narrow
+Nægosion	Negotiate
+Kasodyvie	Neighbor
+Hardeshno	Nativity
+Astovna	Next
+Notefekasion	Notification
+Nesho	Nieche / Rare
+Za	Okay / Yes
+Ustados	Other / Another
+Und	Our / We / Us
+Kaza	Old
+Oksanso	Opinion
+Esmas	Only
+Veska	Own
+Uzvorun	Origin
+Va	Open
+Dormeta	Order
+Taovbia	Operation
+Ofesa	Office
+Opozna / Sashen	Oppose
+Orhestra	Orchestra
+Oktamozka	October
+Treando	Ordain
+Elektro	Online
+Faldera	Pronounce
+Tuzerma	Problem
+Galfar	Plagiarize
+Falatos	Person / Hersona
+Feano	Piano
+Ferenta	Prefer
+Enfera	Power
+Sazaega	Phrase
+Sorovskas	Part
+Bremershka / Vasheska	Pass [v]
+Rashevna	Pass [n]
+Faradesemo	Paradise
+Krazar	Pray
+Saredyvia	Princess
+Venar / Vuzka	Pen
+Volotek	Politics
+Sasadyvia	Possible
+Trasanso	Product
+Maren / Plavet	Pay
+Trovadyvia	Pawn
+Bretasus / Pretanto	Pretend
+Krazensa	Peace
+Bezna	Poor
+Vesa	Put
+Vrasanter	President
+Ashkanva	Payback / Vengeance
+Brusketa	Parent
+Netarna	Perpetuate
+Susama	Prepare
+Sarvanto	Perfect
+Sevrena	Price
+Voztia	Please
+Vendæmo	Pend
+Brematærma	Private
+Foto	Photo
+Karandash	Pencil
+Vuzkasasa	Penmanship
+Prasærva	Password
+Proud	Proud
+Planæta	Planet
+Prædos	Preposition
+Seyema	Plan
+Prashema	Proper
+Nakazat	Punish
+Greshema	Point
+Pashnia	Plow
+Vegoda	Profit
+Neshara	Protect
+Yayena	Play
+Preseanta	Present
+Persevna	Perceive / Conceive
+Polatsar / Tosha	Police
+Pases	Pace
+Valæsæa	Palace
+Posesion	Position
+Vradyviano	Pain
+Plezanto	Pleasure
+Publekasion	Publication
+Prento	Print
+Poyema	Poem
+Pqherno	Pattern
+Pazeto	Publish
+Susnava	Progress
+Vertungashlafa	Paper
+Provendo	Provide
+Promoto	Promote
+Prostæva	Posterity
+Programo	Program
+Profeondo	Profile
+Preos	Place
+Postura	Posture
+Zaproshnæ	Party
+Prusholo	Puzzle
+Prasvenye	Practice
+Stava	Quick
+Somedyvie	Question / Inquiry / Ask
+Varedyvia	Queen
+Serovat	Quote / Cite
+Sveatsa	Relate
+Sealo	Right
+Krason	Reason
+Aksonga / Radyvio	Rain
+Ovrazem	Regime
+Bron	Road
+Shveat	Read
+Sevasa	Real
+Narsensa	Rule / Govern
+Serino / Riq	Realm
+Voshadyvia	Respect
+Ravat / Kesens	Rip
+Yarina	Room
+Seregna	Result
+Eshkanven	Revenge
+Sovaseska	Raisin
+Lavna / Kezan	Run
+Ketezæn	Rot / Rotten
+Ræna / Aræna	Rise / Raise
+Tovaldyvia	Rob
+Vestubeshka	Republic
+Kashka	Retire
+Sozanto	Regret
+Sorva	Reach
+Raskanta	Red
+Æganto	Regard
+Dyviædavna	Recent
+Kræzevna	Receive
+Abærmq	Restore
+Uzar	Review
+Almak	Remain
+Vasorena	Ruin
+Svamada	Rank
+Nagrada	Reward
+Ana	Rest
+Ratando	Retard
+Poroyono	Royal
+Vesta	Return
+Zotashnæ	Remember
+Releseon	Religion
+Rema	Rhyme
+Rashesta	Recognize
+Rændecion	Rendition
+Raputasion	Reputation
+Ræando	Region
+Væando	Ready
+Karsia	Script
+Ovrodyvievan	Simple
+Vrengosta	Section
+Seredyvia	Serene
+Seredyviova	Serenism
+Shvaes	She / Her / Hers
+Zasta	Side
+Sundar	Sun
+Strayesha	Strength
+Sevrata	Same
+Duarma	Sleep
+Sakret / Breshna	Shut
+Verena	Speak
+Sezadaher / Sezerma	Stupid
+Skazat	Say / Tell
+Krozna	Spend
+Skazera	Square
+Svadyvia	Spirit
+Yanto	Son
+Sean	Sign
+Saladyvios	Sovereign
+Striena	Stretch
+Viyon	Style
+Masa	Shoot
+Shesta	Speed
+Suyano	Subject
+Zamena / Shkola	School
+Seaslan	Sad
+Sayeza	Shit
+Matas	Slay
+Kovas	Study
+Zarveze	Struggle
+Sovo	Some
+Votasha	South
+Kesana	See
+Sazar	Sure
+Zastna	Secret
+Vagadyvia	Small
+Solvesta	Solar
+Breshka	Sore
+Avestama	Stink
+Greshka	Sin
+Semera / Shugor	Sugar
+Setadyvia	Sweet
+Veruba	Syrup
+Seala	Sag
+Strosha	Strong
+Snovas	Snow
+Astat / Yæta	Summer
+Santa / Volma	Sea
+Stol	Self
+Vrustadyvia	Scream
+Soldatener	Soldier
+Sosalo	Social
+Sosalova	Socialism
+Skesa	Ship
+Armia	Soon / Later
+Matrovat	Safe
+Svezava	Special
+Sovroska	Sword
+Shvenda	Shroud
+Senatoreas	Senate
+Susvedana	State
+Servadyvia	Serve
+Sestema	System
+Salæva	Snail
+Salvæ	Save
+Sudyvia	Song / Carol
+Sasvodyvia	Sorry / Apologize / Apology
+Ostovana / Seta	Stop / Wait
+Sementermozka	September
+Severanto	Several
+Severma	Server
+Svrazema / Spazedyvie	Space
+Sematorma	Structure
+Stroshærma / Senturon	Sentence
+Vestusha	Smart / Intelligent
+Nava	Suck
+Usta	Superb
+Sozda	Smell / Scent
+Vestusheas	Suspicion
+Præstola	Shame / Disgrace
+Dyvievtoma	Swear
+Yadyviæ	Shop
+Stova	Stone
+Sufeks	Suffix
+Razmera	Size
+Srezna	Single / Singular
+Ostatsa	Stay
+Sushest	Success
+Sushedyvia	Succeed / Triumph
+Pokozne	Similar
+Piæta	Short
+Yavæta / Steshnia	Stick
+Tosova	Subordinate
+Gravniadyvia	Society
+Braskedyvia	Scumbag
+Kapazna	Show / Display
+Seama	Signal
+Sezanto	Season
+Suzna	Secure
+Stovana	Stand
+Eskrena	Sincere
+Strozedyvia	Strict
+Skasa	Sky
+Usasnæ	Sell
+Solveshta	Soul
+Serpeænta	Serpent / Snake
+Sankt	Saint
+Savratoshka	Sister
+Stela	Still
+Stazodyvia	Sneeze
+Zapatoshka	Shoe
+Yesuma	Summary / Overview
+Spakashnæ	Spread
+Sævono	Symbol / Sigil
+Sovodyvioa	Sing
+Setuyasa	Situation
+Staz	Step
+Astaza	Stun / Taken-Aback
+Smiyano	Smile / Grin
+Sverkat	Shine / Glisten
+Srashedyvia	Scorn
+Sarvato	Steal
+Sloshdozna	Slander
+Venda	Spouse
+Sana	Sherpherd
+Severa	Severe
+Elnanto	Sick / Ill / Illness
+Stansa	Stanza
+Story	Estore
+Sakrefeso	Sacrifice
+Soshto	Soft
+Toshka	Subtle
+Vodozna	Source / Site
+Dæpotæ	Sport
+Spiyando	Spell
+Dræhon	Spin
+Vundardyvio	Saturday
+Sontrag	Sunday
+Tesma	Test
+Terma / Tuz	Term
+Valensha	They / Them / Their
+Taesma	Timber
+Te	Tea
+Miyosk	Tire
+Valesma	Thanks / Thank you
+Vasesta	This / These
+Aradodyvia	Tomorrow
+Sarenshka / Prestova	Throne
+Treadyvia	Trespass
+Malaesa	Tempt
+Dason / Zestova	Then
+Uzena / Valeshæ	That / Those / Such
+Temperator	Temperature
+Tadyvia / Tam	There
+Tema	Time
+Velyas	Try
+Vratiava	Think / Ponder
+Yatva	True
+Yatvan	Truth
+Karva	Trick
+Tovat	Trip
+Troza	Train
+Tavasemet	Toast
+Terasdyvia	Tyranny
+Zæm	Than
+Vederzal	Terror
+Dovoroma	Treaty
+Noradyvio	Thing / Stuff
+Eshkenva / Ærma	Take
+Votala	Total
+Tærva	Tear
+Sagraneza	Town
+Tezna	Technical
+Uzasne	Terrible
+Garbash	Trash
+Stola	Table
+Tempera	Temper
+Vorat	Trust
+Trono	Throat
+Tronto	Turn
+Tunæ	Tune
+Tamno	Tame
+Vratuy	Twirl
+Verfun	Throw
+Ushesto	Teach
+Rasposto	Travel
+Tradesion	Tradition
+Vrashenye	Thunder
+Yontrag	Tuesday
+Vqhand	Thursday
+Vashtera	Understand
+Unesta	Unite
+Armesta	Union
+Usas	Use
+Usernama / Emyaposna	Username
+Ultemanto	Ultimate
+Zalensker	Volunteer
+Vasas	Visit
+Saes	Very
+Vetoria	Victory
+Voltesa	Vote
+Komanda	Vomit
+Veltashka	Veil
+Version	Version
+Varos	Volcano
+Svomada	Verb
+Vohansa	Vocabulary
+Seva	Virtue
+Valar	Valley
+Viyanto	Value
+Vara	Vary
+Vasala	Vassal
+Noprasna	Vain
+Versus	Verse
+Vrusna	Voice
+Veseon	Vision
+Vashenska	Word
+Svaena	Who
+Budæt	Will
+Votærma	Water
+Vatum / Votrem	Watch
+Vata	Well
+Vodyvia / Velkrega	War
+Kasen	While
+Dasest	What
+Dasa / Notovka	Why
+Estana	Win
+Vroyovska	Write
+Veta / Dashna	White
+Vomera	Woman
+Kalesea / Vadyviæta	World
+Vetera	Wealth
+Yanvo	Which
+Esheva	Weak
+Esadyvia	Want / Seek
+Vos	Where
+Vasora	West
+Trabadyvio	Work / Job
+Afera	Wake
+Vason	When
+Pozalavetsh	Welcome
+Dasbadyvia	Wimp
+Vusnava	Way
+Sovradyvio	Weapon
+Urma	Wrong
+Kurva	Whore
+Skevadyvia	Wise
+Venta	Wind
+Venterasa	Winter
+Vestushka	Weird / Odd / Duplicity
+Zempeorma	Week
+Vezpeorma	Weekend
+Veno	Wine
+Zaprosh	Walk
+Duma	Wonder
+Yadyvie	Worth
+Vestova	Wise
+Serozke	Wide
+Vudama	Wood
+Veshoska	Witch
+Vundo	Womb
+Vres	Wrist
+Ve	Wed
+Vridi	Warm
+Davesendo	Wesnesday
+Yarva	You
+Tusleama	You’re Welcome
+Yavrena / Yavratama	Year
+Mearkena	Yesterday
+Vaen / Za	Yes
+Yovan	Young
+With the grace of the Gods	Kravnia greshterma dæ Vosedyvia’
+the autocrats	utakratsier’
+and the people	a hersona’
+vov gesdovana noron	wow so big
+Ma kapaznarovska vokta!	I'm just kidding!
+all will hail His Majesty	sedyvia raduznakriya Præstova esa Vasavalezestva
+second of the House of Sirezia	Kavaes dæ Kosovno dæ Sirezia
+third to the ascending of the Great Kingdom of Prasvulsia	Kesta podyemarovska dæ Vesenea Veleka dæ Prasvulsea
+King Syros of Sirezia	Vesedyvia Seros dæ Sirezia
+As the procession continued	Mas pradenye kontedyviætashk
+there came before the great hall of the palace	tadyvia sumatshk ukraza qhorzæ veleka dæ valæsæa
+From across the seas beyond the reach of the Sirezians came diplomats from kingdoms far in the west and the north	otrozka’ dæ vota’ dæ posesion’ veleka a rasnoy aslanda
