@@ -1,9 +1,9 @@
 @echo off
 echo Powering on the Valdevian Translator...
 pause
-python -m pip install transformers
-python -m pip install torch
-python -m pip install Flask
+py -m pip install transformers
+py -m pip install torch
+py -m pip install Flask
 
 set current_dir=%cd%
 
