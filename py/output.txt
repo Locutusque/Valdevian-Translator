@@ -2488,3 +2488,30 @@ King Syros of Sirezia	Vesedyvia Seros dæ Sirezia
 As the procession continued	Mas pradenye kontedyviætashk
 there came before the great hall of the palace	tadyvia sumatshk ukraza qhorzæ veleka dæ valæsæa
 From across the seas beyond the reach of the Sirezians came diplomats from kingdoms far in the west and the north	otrozka’ dæ vota’ dæ posesion’ veleka a rasnoy aslanda
+No	Dyvievyat
+Nope	Dyvievyat
+No	Dyvievæt
+Nope	Dyvievæt
+I	Ma
+Me	Ma
+My	Ma
+Myself	Ma
+Moscow	Mauskdyiev
+Mine	Ma
+Foolish	Fuzeskiya
+Soldier	Soldatener
+Doubtful	Bavarovyna
+Greater	Hasenskeyo
+Greatest	Hasenkeya
+Hello how are you	Hastva vas yarva
+Hello how are you doing	Hastva vas yarva mavratarovska
+What are you doing	Dasest yarva mavratarovska
+I want to go home	Ma esadyvia suyas kosovno
+Want	Esadyvia
+Go	Suyas
+Home	Kosovno
+what	dasest
+why	notovka
+dasest	what
+notovka	why
+dasest yarva mavratarovska	what are you doing
