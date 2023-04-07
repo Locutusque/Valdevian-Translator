@@ -80,12 +80,15 @@ def signup():
         # Get the username and password from the form
         username = request.form['username']
         password = request.form['password']
+        client_ip = request.headers.get('X-Forwarded-For', request.remote_addr)
 
         # Check if the username is already taken
         conn = sqlite3.connect('users.db')
         c = conn.cursor()
         c.execute("SELECT * FROM users WHERE username=?", (username,))
         result = c.fetchone()
+        if client_ip in blacklisted_ips:
+            return render_template('signup.html', error='Your IP is blacklisted, you cannot sign up for this website')
 
         if result:
             # Username is already taken
@@ -113,12 +116,15 @@ def login():
         # Get the username and password from the form
         username = request.form['username']
         password = request.form['password']
+        client_ip = request.headers.get('X-Forwarded-For', request.remote_addr)
 
         # Check if the username and password are correct
         conn = sqlite3.connect('users.db')
         c = conn.cursor()
         c.execute("SELECT * FROM users WHERE username=? AND password=?", (username, password))
         result = c.fetchone()
+        if client_ip in blacklisted_ips:
+            return render_template('login.html', error='Your IP is blacklisted, you cannot log in to this website')
 
         if result:
             # Username and password are correct, set the session variable and redirect to the home page
