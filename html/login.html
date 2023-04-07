@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <title>Login</title>
+  <style>
+
+  .container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  form {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+    color: #0077ff;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: underline;
+  }
+  
+  button:hover {
+    color: #0052cc;
+  }
+  button[type="submit"] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #45a049;
+    border: 2px solid #4CAF50;
+    color: #fff;
+    transform: scale(1.05);
+  }
+  a {
+    color: #0077ff;
+    text-decoration: none;
+    border-bottom: 2px solid #0077ff;
+    padding: 2px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  a:hover {
+    color: #0052cc;
+    border-bottom: 2px solid #0052cc;
+  }
+  @media only screen and (max-width: 600px) {
+  body {
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  form {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+    color: #0077ff;
+    cursor: pointer;
+    font-size: 14px;
+    text-decoration: underline;
+  }
+  
+  button:hover {
+    color: #0052cc;
+  }
+  button[type="submit"] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+    border: 2px solid #4CAF50;
+    color: #fff;
+    transform: scale(1.05);
+  }
+  a {
+    color: #0077ff;
+    text-decoration: none;
+    border-bottom: 2px solid #0077ff;
+    padding: 2px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  a:hover {
+    color: #0052cc;
+    border-bottom: 2px solid #0052cc;
+  }
+}
+
+  </style>
+  </head>
+  <h1>Login</h1>
+  <form method="post">
+    {% if error %}
+    <p style="color: red">{{ error }}</p>
+  {% endif %}
+    <div>
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username">
+    </div>
+    <div>
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password">
+    </div>
+    <button type="submit">Login</button>
+    <a href="/signup">Don't have an account? Sign up here.</a>
+  </form>
+
+</html>
