@@ -1,11 +1,45 @@
 from flask import Flask, render_template, request, abort, session, redirect, url_for, make_response
-from flask_talisman import Talisman
 from ValdevianTranslator import ValdevianTranslator
 import os
 import sqlite3
 from queue import Queue
 from datetime import datetime, timedelta
+import torch
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
 translation_queue = Queue()
+tokenizer = GPT2Tokenizer.from_pretrained('gpt2-medium')
+model = GPT2LMHeadModel.from_pretrained('gpt2-medium')
+tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+tokenizer.add_special_tokens({'eos_token': '<|End|>'})
+special_tokens = {
+    "additional_special_tokens": ["<|ASSISTANT|>", "<|USER|>", "<|End|>", "<mask>"]
+}
+tokenizer.add_special_tokens(special_tokens)
+model.resize_token_embeddings(len(tokenizer))
+model.load_state_dict(torch.load("D:\\Projects\\results2\\pytorch_model.bin"))
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model.to(device)
+def generate_text(prompt, tokenizer=tokenizer, model=model, max_length=256) -> str:
+    prompt = f'<|USER|> {prompt} <|ASSISTANT|> '
+    input_ids = tokenizer.encode(prompt, add_special_tokens=True, return_tensors="pt").to(device)
+    output = model.generate(input_ids, 
+                            max_length=max_length, 
+                            do_sample=True, 
+                            top_k=45, 
+                            top_p=0.65,
+                            pad_token_id=tokenizer.pad_token_id,
+                            eos_token_id=tokenizer.eos_token_id,)
+    output_ids = tokenizer.decode(output[0], skip_special_tokens=False)
+    return output_ids
+def slice_text_between_substrings(text: str, substring1: str, substring2: str):
+    start_index = text.index(substring1) + len(substring1)
+    end_index = text.index(substring2)
+    
+    if start_index == -1 or end_index == -1 or start_index >= end_index:
+        return None
+    
+    sliced_text = text[start_index:end_index]
+    return sliced_text
 
 # Create a connection to the database
 conn = sqlite3.connect('users.db')
@@ -50,7 +84,7 @@ def before_request():
         # Check if the path starts with the parent directory
 
         # Allow requests to files in the static directory
-        if path.startswith('/static/css/') or path.startswith('/translator') or path.startswith('/translate') or path.startswith('/') or path.startswith('/req') or path.startswith('/train') or path.startswith('/static/js/') or path.startswith('/login') or path.startswith('/signup') or path.startswith('/logout'):
+        if path.startswith('/static/css/') or path.startswith('/translator') or path.startswith('/translate') or path.startswith('/') or path.startswith('/req') or path.startswith('/train') or path.startswith('/static/js/') or path.startswith('/login') or path.startswith('/signup') or path.startswith('/logout') or path.startswith('/conv') or path.startswith('/generate'):
             return None
         else:
             abort(403, "Your request is not authorized.")
@@ -170,8 +204,21 @@ def logout():
     session.pop('username', None)
     # Redirect the user to the login page
     return redirect(url_for('login'))
+@app.route('/conv')
+def conv():
+    return render_template('conv.html')
+@app.route('/generate', methods=['POST'])
+def generate():
+    prompt = request.form['prompt']
+    output_text = generate_text(prompt)
 
-
+    # Extract the text between two tokens.
+    start_token = "<|ASSISTANT|>"
+    end_token = "<|"
+    text_between_tokens = output_text[output_text.find(start_token) + len(start_token):]
+    out = text_between_tokens[:text_between_tokens.find(end_token)]
+    print(text_between_tokens)
+    return render_template('conv.html', prompt=prompt, output_text=out)
 def process_translation_queue():
     while True:
         # Get the next translation request from the queue
