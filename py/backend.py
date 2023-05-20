@@ -16,7 +16,7 @@ special_tokens = {
 }
 tokenizer.add_special_tokens(special_tokens)
 model.resize_token_embeddings(len(tokenizer))
-model.load_state_dict(torch.load("D:\\Projects\\results2\\pytorch_model.bin"))
+model.load_state_dict(torch.load(""))
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 def generate_text(prompt, tokenizer=tokenizer, model=model, max_length=256) -> str:
