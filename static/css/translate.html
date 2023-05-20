@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Translator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <script type="text/javascript" src="{{ url_for('static', filename='js/frontend.js') }}"></script>
+    
+</head>
+<body>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <h1>Translator</h1>
+          <hr>
+          <form>
+            <div class="form-group">
+              <label for="input_text">Enter text to translate:</label>
+              <textarea class="form-control blink" id="input_text" name="input_text" rows="5" autofocus></textarea>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <div class="loader"></div>
+          <h2>Translation:</h2>
+          <hr>
+          <p id="output_text"></p><span id="cursor" class="hidden">|</span>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <label class="dropdown" for="model-select">Select a model:</label>
+          <select class="dropdown" id="model-select">
+            <option value="t5-small">T5 Small</option>
+            <option value="t5-base">T5 Base</option>
+            <option value="t5-large">T5 Large</option>
+            <option value="t5-3b">T5 3B</option>
+            <option value="t5-11b">T5 11B</option>
+          </select>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <div class="system-req">
+            <button id="req-btn" onclick="window.location.href='/conv'">distilChatGPT</button>
+            <button id="req-btn" onclick="window.location.href='/req'">System Requirements</button>
+            <button id="req-btn" onclick="window.location.href='/logout'">Log out</button>
+            <p id="sys_reqs"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
